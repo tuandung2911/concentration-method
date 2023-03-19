@@ -23,16 +23,18 @@ tool cụ thể mà bạn chọn mà là những thói quen bạn sử dụng h�
 
 ## GTD LÀ GÌ? TỔNG QUAN NGẮN GỌN
 GTD gồm 5 cách thực hành đơn giản để hệ thống lại sự lộn xộn trong đầu bạn và làm nó hoàn thành:
-# Ghi lại mọi thứ: 
+### Ghi lại mọi thứ: 
 ghi lại mọi thứ xuất hiện trong tâm trí của bạn. Không có gì là quá lớn hay nhỏ. Mọi thứ này đi trực tiếp vào hộp thư đến của bạn.
-# Làm rõ:
+### Làm rõ:
 xử lý những gì bạn ghi lại thành các bước hành động rõ ràng cụ thể. Quyết định một mục là dự án, hành động tiếp theo hay tài liệu tham khảo.
-# Sắp xếp: 
+### Sắp xếp: 
 Đặt mọi thứ vào đúng chỗ. Thêm ngày vào lịch của bạn, ủy quyền dự án cho người khác, gửi tài liệu thảm khảo và sắp xếp các nhiệm vụ của bạn
-# Đánh giá:
+### Đánh giá:
 Thường xuyên xem quá, cập nhật, sửa đổi danh sách của bạn.
-# Tham gia:
+### Tham gia:
 Bắt tay vào làm những việc quan trọng.
+
+
 
 
 
